@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>alexkraker.com</title>
+    <link>https://alexkraker.com/</link>
+    <description>Recent content on alexkraker.com</description>
+    <image>
+      <url>https://alexkraker.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alexkraker.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 May 2021 15:38:30 -0600</lastBuildDate><atom:link href="https://alexkraker.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://alexkraker.com/contact/</link>
+      <pubDate>Sun, 16 May 2021 16:21:20 -0600</pubDate>
+      
+      <guid>https://alexkraker.com/contact/</guid>
+      <description>Phone: (612)-567-ALEX (2539) Email: alex@alexkraker.com  Interested in working together?
+Visit Kraker Development</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://alexkraker.com/about/</link>
+      <pubDate>Sun, 16 May 2021 16:12:19 -0600</pubDate>
+      
+      <guid>https://alexkraker.com/about/</guid>
+      <description>Me in 10 Seconds  Name: Alex Kraker Age: 36 Occupation: Managed Hosting Analyst Employer: InMotion Hosting Location: Colorado mountains Dependents: 1 dog &amp;ldquo;Feather&amp;rdquo; Hobbies &amp;amp; interests: guitar, hiking, camping, cryptocurrency, tech, learning  </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://alexkraker.com/posts/my-first-post/</link>
+      <pubDate>Sun, 16 May 2021 15:38:30 -0600</pubDate>
+      
+      <guid>https://alexkraker.com/posts/my-first-post/</guid>
+      <description>My First Post Test post</description>
+    </item>
+    
+  </channel>
+</rss>
