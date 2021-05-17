@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alexkraker.com/</loc>
+    <lastmod>2021-05-16T18:39:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexkraker.com/posts/grit/</loc>
+    <lastmod>2021-05-16T18:39:24-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexkraker.com/posts/</loc>
+    <lastmod>2021-05-16T18:39:24-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alexkraker.com/contact/</loc>
     <lastmod>2021-05-16T16:21:20-06:00</lastmod>
   </url>
@@ -10,21 +25,6 @@
   <url>
     <loc>https://alexkraker.com/about/</loc>
     <lastmod>2021-05-16T16:12:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexkraker.com/</loc>
-    <lastmod>2021-05-16T15:38:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexkraker.com/posts/my-first-post/</loc>
-    <lastmod>2021-05-16T15:38:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexkraker.com/posts/</loc>
-    <lastmod>2021-05-16T15:38:30-06:00</lastmod>
   </url>
   
   <url>
