@@ -9,7 +9,16 @@
       <link>https://alexkraker.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 May 2021 18:39:24 -0600</lastBuildDate><atom:link href="https://alexkraker.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 06:36:32 -0600</lastBuildDate><atom:link href="https://alexkraker.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Became a Linux Sysadmin in Less Than 2 Years</title>
+      <link>https://alexkraker.com/posts/linux-sysadmin/</link>
+      <pubDate>Thu, 20 May 2021 06:36:32 -0600</pubDate>
+      
+      <guid>https://alexkraker.com/posts/linux-sysadmin/</guid>
+      <description>In November of 2019, I started working as a Tier 1 support agent at a web-hosting company in the Denver, CO area. Just shy of 18 months later I was promoted to Managed Hosting Analyst, which is a Linux Sysadmin role. I retained a couple roles between then. I was promoted to Tier 1 Expert at about 3 months in, and around 9 months later I received a promotion to Advanced Product Support, which is basically a Jr.</description>
+    </item>
+    
     <item>
       <title>Grit</title>
       <link>https://alexkraker.com/posts/grit/</link>
