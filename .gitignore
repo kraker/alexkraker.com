@@ -1,3 +1,4 @@
 # .gitignore
 
 .hugo_build.lock
+public/
