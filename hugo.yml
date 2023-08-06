@@ -1,0 +1,126 @@
+baseURL: https://alexkraker.com/
+title: alexkraker.com
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: alexkraker.com
+  description: "Home of Alex Kraker"
+  keywords: [Blog, Portfolio, resume]
+  author: Alex Kraker
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  ShowReadingTime: true
+  # ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  # assets:
+  #     # disableHLJS: true # to disable highlight.js
+  #     # disableFingerprinting: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+  # label:
+  #     text: "Home"
+  #     icon: /apple-touch-icon.png
+  #     iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Alex Kraker
+    subtitle: "Internet home of Alex Kraker"
+    imageUrl: "head-shot-2-cropped.png"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: head shot
+    buttons:
+      - name: About
+        url: about
+      - name: Contact
+        url: contact
+      - name: Posts
+        url: posts
+      # - name: Tags
+      #   url: tags
+      # - name: Categories
+      #   url: categories
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Alex Kraker"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/kraker"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/alexkraker/"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 20
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 30
+    - identifier: posts
+      name: posts
+      url: /posts/
+  # footer: 
+  #   - identifier: categories
+  #     name: categories
+  #     url: /categories/
+  #     weight: 20
+  #   - identifier: tags
+  #     name: tags
+  #     url: /tags/
+  #     weight: 20
+
