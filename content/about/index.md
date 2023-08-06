@@ -9,7 +9,7 @@ draft: false
 * **Name:** Alex Kraker 
 * **Age:** 38
 * **Occupation:** Linux System Administrator
-* **Employer:** [Avvale](https://avvale.com)
+* **Employer:** [Avvale](https://www.avvale.com)
 * **Location:** Tulsa, OK
 * **Dependents:**  1 dog _"Feather"_
 * **Hobbies & interests:** Piano, violin/fiddle, hiking, camping, tech, learning
