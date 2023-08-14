@@ -25,7 +25,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: true
-  # ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -65,15 +65,8 @@ params:
         url: contact
       - name: Posts
         url: posts
-      # - name: Tags
-      #   url: tags
-      # - name: Categories
-      #   url: categories
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Alex Kraker"
-    Content: Welcome to my blog
+      - name: Resume
+        url: resume
 
   socialIcons:
     - name: github
@@ -105,22 +98,15 @@ menu:
       weight: 10
     - identifier: about
       name: about
-      url: /about/
+      url: /about
       weight: 20
     - identifier: contact
       name: contact
-      url: /contact/
+      url: /contact
       weight: 30
     - identifier: posts
       name: posts
-      url: /posts/
-  # footer: 
-  #   - identifier: categories
-  #     name: categories
-  #     url: /categories/
-  #     weight: 20
-  #   - identifier: tags
-  #     name: tags
-  #     url: /tags/
-  #     weight: 20
-
+      url: /posts
+    - identifier: resume
+      name: resume
+      url: /resume
