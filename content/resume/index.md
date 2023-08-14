@@ -4,11 +4,6 @@ date: 2023-08-13
 draft: false
 ---
 
-alex@alexkraker.com | +1 303 519 0703 | [alexkraker.com](https://alexkraker.com)
-| [GitHub](https://github.com/kraker) |
-[LinkedIn](https://www.linkedin.com/in/alexkraker)
-
----
 # Alex Kraker
 
 **Linux System Administrator**
@@ -17,30 +12,44 @@ alex@alexkraker.com | +1 303 519 0703 | [alexkraker.com](https://alexkraker.com)
 > them.\
 > _-- Albert Einstein_
 
-<!--
 alex@alexkraker.com\
 +1 303 519 0703\
 Tulsa, OK
 
 [alexkraker.com](https://alexkraker.com) | [GitHub](https://github.com/kraker) |
 [LinkedIn](https://www.linkedin.com/in/alexkraker)
--->
 
 ## Summary
 
-A Linux System Administrator with DevOps tendancies. An enthusiastic problem
-solver at heart, my experience in IT as well as in other domains demonstrates
-a breadth of experience as an analytical thinker, creative problem solver, 
-troubleshooter, builder, and engineer. As a whole systems thinker with a 
-penchant for working from first principles I've engineered robust and 
-fault-tolerant systems to solution real business needs. Notable examples include 
-infrastructure access & identiy management, security hardening, and 
-configuration & patch management of both Linux and Windows servers. A lifelong 
-lover of learning, I'm constantly seeking new challenges, and to grow my skills. 
-I'm eager to share my knowledge with others and actively mentor others both at 
-work and through community forums.
+A Linux System Administrator with 5+ years aggregate professional experience.
+An enthusiastic problem solver, my experience in IT and other domains demonstrates
+a breadth of experience as an analytical thinker, creative problem solver,
+troubleshooter, builder, and engineer. A whole systems thinker working from
+first principles I've engineered robust and fault-tolerant systems to solution 
+business needs. Notable examples include infrastructure access & identiy 
+management, security hardening, and configuration & patch management of both 
+Linux and Windows servers. A lifelong lover of learning, I'm constantly seeking 
+new challenges, to grow my skills, and to share my knowledge with others.
 
-## Relevant Work Experience
+## Skills
+
+* **Linux System Administrator**
+  * Red Hat Enterprise Linux, CentOS, Rocky Linux
+  * SUSE Linux Enterprise Server
+  * Ubuntu Server
+  * Pacemaker cluster resource manager
+* **DevOps Engineer**
+  * Ansible
+  * Jenkins CI
+  * GitHub Actions
+  * Docker
+* **Kubernetes Administrator**
+* Computer networking
+* Cloud computing: AWS, Azure, GCP
+* Virtualization: Proxmox VE, OpenStack, Virtuozzo
+* Scripting: Bash, PowerShell, Python
+
+## Work Experience
 
 ### Linux System Administrator
 
@@ -67,48 +76,41 @@ _March 2023 -- Present_
 [InMotion Hosting](https://www.inmotionhosting.com/) | Denver, CO (Remote)\
 _April 2021 -- February 2022_
 
-* Manage, configure, optimize, and troubleshoot Linux web-hosting servers. 
+* Manage, configure, optimize, and troubleshoot Linux web-hosting servers.
   Primarily cPanel servers running a LAMP stack on either CentOS or CloudLinux.
-* Install, configure, optimize and troubleshoot the following software and 
-  systems: Nginx, Apache, LightSpeed HTTPD, MySQL, PostgreSQL, Varnish, PHP, 
-  BIND, FTP servers, Exim SMTP server, Dovecot IMAP server, cPanel, ConfigServer 
+* Install, configure, optimize and troubleshoot the following software and
+  systems: Nginx, Apache, LightSpeed HTTPD, MySQL, PostgreSQL, Varnish, PHP,
+  BIND, FTP servers, Exim SMTP server, Dovecot IMAP server, cPanel, ConfigServer
   Security and Firewall (CSF), Advanced Policy Firewall (APF).
 * Virtualization technologies used: OpenStack, Virtuozzo
-* Extensive real-world experience troubleshooting DNS and computer networking 
+* Extensive real-world experience troubleshooting DNS and computer networking
   issues.
 * Provision and configure Cisco ASA firewalls.
-* Extensive hands-on experience installing, troubleshooting, administering, 
-  optimizing and maintaining PHP-based _Content Management Systems_. Notable 
+* Extensive hands-on experience installing, troubleshooting, administering,
+  optimizing and maintaining PHP-based _Content Management Systems_. Notable
   examples are WordPress, Drupal, Joomla, and Magento.
 * Co-author of Jr. Linux Sysadmin "Pipeline" program to supplement training and
   skills development of aspiring Linux Sysadmins.
-* Escalation point for Sales, Advanced Support, and Technical Support teams.
+* Technical escalation point for Sales, Advanced Support, and Technical Support
+  teams.
 
-### Advanced Product Support Specialist
+### Advanced Product Support & Technical Support Specialist
 
 [InMotion Hosting](https://www.inmotionhosting.com/) | Denver, CO (Remote)\
-_September 2020 - April 2021_
+_November 2019 - April 2021_
 
-* Provided advanced support at the level of Jr. Linux System Administrator for
-  standalone cPanel web servers running both on dedicated hardware and in 
-  virtualized environments.
-* Escalation point for Technical Support Specialists.
+* Provided advanced technical support at the level of Jr. Linux System
+  Administrator for standalone cPanel web servers running both on dedicated
+  hardware and in virtualized environments.
 * Internal knowledge base editor & consultant. Facilitated migration of complete
   internal knowledge base to Zendesk "Guide".
-
-### Technical Support Specialist & Technical Support Specialist Expert
-
-[InMotion Hosting](https://www.inmotionhosting.com/) | Denver, CO\
-_November 2019 -- September 2020_
-
-* First tier technical support expert for shared web-hosting and standalone 
-  cPanel web-servers hosted in a virtualized environment.
-* Manned "Temporary Remote Helpdesk" providing support for remote connectivity 
-  issues, RDP and VOIP troubleshooting, with hands-on troubleshooting for both 
-  Windows and MacOS based systems. Primarily resolving/triaging network 
+* Manned "Temporary Remote Helpdesk" providing support for remote connectivity
+  issues, RDP and VOIP troubleshooting, connectivity troubleshooting for both
+  Windows and MacOS based systems. Primarily resolving/triaging network
   connectivity problems with internal resources and tools to facilitate the
   abrupt transition to remote work due to the COVID-19 Pandemic.
-* Internal knowledgebase trusted editor.
+* Received 3 promotions within 18 month time-span.
+* Technical escelation point for Tier 1 Support teams.
 
 ### Freelance Web Developer and System Administrator
 
@@ -123,13 +125,6 @@ _January 2015 -- August 2021_
 * DNS implementation and troubleshooting.
 * Email setup, configuration, and troubleshooting.
 
-## Other Titles Held
-
-Professional Pianist/Accompanist, Primary Care Assistant (PCA), Barista, Server,
-Lead Bartender, General Store Supervisor, Painting Contractor, Bike Mechanic,
-Wood-Stove Technician & Crew Foreman, Apprentice Tile-Setter, Apprentice
-Electrician, Freelance Handyman.
-
 ## Volunteer Experience
 
 * [PaperStreet](https://github.com/paperstreetco)\
@@ -140,52 +135,10 @@ Electrician, Freelance Handyman.
   Contributor & Mentor | _May 2023 -- Present_\
   Jr. Linux Sysadmin learning and skills development pipeline.
 
-## Skills
-
-### Core Competencies
-
-* **Linux System Administrator**
-  * Red Hat Enterprise Linux, CentOS, Rocky Linux
-  * SUSE Linux Enterprise Server
-  * Ubuntu Server
-  * Pacemaker cluster resource manager
-* **DevOps Engineer**
-  * Ansible
-  * Jenkins CI
-  * GitHub Actions
-  * Docker
-* **Kubernetes Administrator**
-
-### Supporting Competencies
-
-* Computer networking
-* Cloud computing
-  * AWS
-  * Azure
-  * GCP
-* Virtualization
-  * Proxmox VE
-  * OpenStack
-  * Virtuozzo
-* Scripting
-  * Bash
-  * PowerShell
-  * Python
-
-### Related Skills
-
-* Web Application Development
-  * Languages
-    * Clojure
-    * HTML/CSS/JavaScript
-* Windows System Administrator
-
 ## Certifications
 
 * CompTIA Network+ Certification\
   _March 2022 -- March 2025_
-* cPanel & WHM Administrator Certification (CWA)\
-  _March 2021 -- March 2022_
 
 ## Hobbies & Interests
 
