@@ -4,6 +4,11 @@ date: 2023-08-13
 draft: false
 ---
 
+alex@alexkraker.com | +1 303 519 0703 | [alexkraker.com](https://alexkraker.com)
+| [GitHub](https://github.com/kraker) |
+[LinkedIn](https://www.linkedin.com/in/alexkraker)
+
+---
 # Alex Kraker
 
 **Linux System Administrator**
@@ -12,9 +17,14 @@ draft: false
 > them.\
 > _-- Albert Einstein_
 
-alex@alexkraker.com | +1 303 519 0703 | [alexkraker.com](https://alexkraker.com)
-| [GitHub](https://github.com/kraker) |
+<!--
+alex@alexkraker.com\
++1 303 519 0703\
+Tulsa, OK
+
+[alexkraker.com](https://alexkraker.com) | [GitHub](https://github.com/kraker) |
 [LinkedIn](https://www.linkedin.com/in/alexkraker)
+-->
 
 ## Summary
 
@@ -183,3 +193,9 @@ Musician: Piano, Fiddle, & Composition | Homelabbing | Linux & Open Source |
 Chess | Travel & Adventure | Health & Fitness | Bio-hacking | Productivity |
 Green Energy, Sustainability, & Activism | Leadership | Science, Innovation, &
 Technology | Entrepreneurship
+
+---
+
+alex@alexkraker.com | +1 303 519 0703 | [alexkraker.com](https://alexkraker.com)
+| [GitHub](https://github.com/kraker) |
+[LinkedIn](https://www.linkedin.com/in/alexkraker)
