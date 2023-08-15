@@ -66,3 +66,9 @@ _January 2015 -- August 2021_
 
 Musician: Piano, Fiddle, & Composition | Homelabbing | Chess | Travel & 
 Adventure | Sustainability | Science & Technology
+
+---
+
++1 303 519 0703 | alex@alexkraker.com |
+[linkedin.com/in/alexkraker](https://linkedin.com/in/alexkraker) |
+[github.com/kraker](https://github.com/kraker)
