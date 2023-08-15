@@ -17,8 +17,9 @@ Administrator and Systems Engineer. Operational support and management of over
 800 servers in cloud environments with an SLA uptime of 99.5% or better and
 99.95% or better for systems in high-availability configurations. Ansible
 automation subject matter expert (SME), Kubernetes administrator, and Jenkins CI
-administrator with over 1200 commits contributed spanning 10 unique projects 4
-of which were "greenfield" projects delivered supporting core infrastructure.
+administrator with nearly 10,000 lines of code contributed spanning 10 unique
+projects, 4 of which were "greenfield" projects delivered supporting core
+infrastructure.
 
 ## Experience
 
