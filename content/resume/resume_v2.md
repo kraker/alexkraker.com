@@ -54,10 +54,6 @@ _January 2015 -- August 2021_
   Co-Founder | _May 2022 -- Present_\
   Open Source project to facilitate professional and skills development for
   IT practitioners and system administrators.
-* [Linux Upskill Challenge](https://linuxupskillchallenge.com/)\
-  Contributor & Mentor | _May 2023 -- Present_\
-  Jr. Linux Sysadmin learning and skills development pipeline.
-
 ## Certifications
 
 * CompTIA Network+ Certification\
