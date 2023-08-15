@@ -8,18 +8,12 @@ draft: false
 
 **Linux System Administrator**
 
-> We can not solve our problems with the same level of thinking that created
-> them.\
-> _-- Albert Einstein_
-
 alex@alexkraker.com\
 +1 303 519 0703\
 Tulsa, OK
 
 [alexkraker.com](https://alexkraker.com) | [GitHub](https://github.com/kraker) |
 [LinkedIn](https://www.linkedin.com/in/alexkraker)
-
-## Summary
 
 A Linux System Administrator with 5+ years aggregate professional experience.
 An enthusiastic problem solver, my experience in IT and other domains demonstrates
