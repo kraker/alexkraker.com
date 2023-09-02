@@ -1,6 +1,6 @@
 ---
 title: Resume
-date: 2023-08-23
+date: 2023-09-02
 draft: false
 ---
 
@@ -124,3 +124,5 @@ technology, entrepreneurship.
 +1 303 519 0703 | alex@alexkraker.com |
 [linkedin.com/in/alexkraker](https://linkedin.com/in/alexkraker) |
 [github.com/kraker](https://github.com/kraker)
+
+_Download this resume as a [PDF](alexkraker_resume_2023-09-02.pdf)._
