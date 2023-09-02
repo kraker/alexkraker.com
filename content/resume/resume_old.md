@@ -1,7 +1,7 @@
 ---
-title: "Resume"
+title: Resume old
 date: 2023-08-13
-draft: false
+draft: true
 ---
 
 # Alex Kraker
