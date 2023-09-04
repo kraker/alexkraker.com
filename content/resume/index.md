@@ -52,11 +52,9 @@ _April 2021 -- February 2022_
 * Proficiently installed, configured, and optimized a range of software and
   systems, including Nginx, Apache, LightSpeed HTTPD, MySQL, PostgreSQL,
   Varnish, PHP, BIND, FTP servers, Exim SMTP server, Dovecot IMAP server,
-  cPanel, ConfigServer Security and Firewall (CSF), and Advanced Policy
-  Firewall (APF).
+  cPanel, ConfigServer Security and Firewall (CSF), Advanced Policy
+  Firewall (APF), and Cisco ASA Firewall.
 * Leveraged virtualization technologies like OpenStack and Virtuozzo.
-* Demonstrated expertise in troubleshooting DNS and computer networking issues.
-* Designed and implemented Cisco ASA firewall solutions.
 * Managed, troubleshot, and optimized PHP-based Content Management Systems, such
   as WordPress, Drupal, Joomla, and Magento.
 * Co-authored the "Jr. Linux Sysadmin Pipeline" program to enhance the skills
