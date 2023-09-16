@@ -92,7 +92,7 @@ _Continuous Integration Continuous Deployment_
 
 # Development
 
-Programming, scripting, source code management (SCM), and CLI.
+Programming, scripting, source code management (SCM).
 
 * ✅ [The Grug Brained Developer](https://grugbrain.dev/)
 
@@ -148,7 +148,7 @@ _Source Code Manegement_
 
 ## Regular Expressions
 
-* ✅ [RegexOne](https://regexone.com/) - Online tutorial
+* ✅ [RegexOne](https://regexone.com/) - Online tutorial\
   _This is a great intro to RegEx that you can probably get through in a couple
   of hours._
 
@@ -156,9 +156,9 @@ _Source Code Manegement_
 
 * ✅ [Computer Networking: A Top-Down Approach](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780136681557) by James F. Kurose
   _If you only consume one resource on computer networking, read this._
-* [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/) - Video course
+* [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/) - Video Course
 * [Networking for System Administrators](https://mwl.io/nonfiction/networking) by Michael W Lucas
-* [Test-Out: Network Pro](https://w3.testout.com/courseware/network-pro) - Online course & lab
+* [Test-Out: Network Pro](https://w3.testout.com/courseware/network-pro) - Online Course + Labs\
   It's important to do applied work to solidify skills and learning. If you're
   studying for the Network+ the labs in this course are the closest facsimile to
   real-world experience that I've found. This course is all you need to get your
@@ -208,7 +208,7 @@ Start with these:
 
 ## Tutorials
 
-* [Linux Upskill Challenge](https://linuxupskillchallenge.org/)
+* [Linux Upskill Challenge](https://linuxupskillchallenge.org/)\
   Level up your Linux skills to Jr. Linux Administrator in month's worth of
   daily challenges. I'm a contributor on this
   [project](https://github.com/livialima/linuxupskillchallenge) and am active
@@ -286,9 +286,9 @@ engineer, etc that I've worked with was a note-taker. The methodologies used
 doesn't seem to matter so much, but taking notes does.
 
 * [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes) by Sönke Ahrens
-* [The Zettlekasten Method](https://zettelkasten.de/posts/overview/)
+* [The Zettlekasten Method](https://zettelkasten.de/posts/overview/)\
   _This is the method that I (mostly) use. See my [second brain](https//notes.kraker.dev) as an example._
-* [Obsidian](https://obsidian.md/)
+* [Obsidian](https://obsidian.md/)\
   Markdown note-taking tool. Supports Zettelkasten methodologies. This is what
   I'm currently using, although I've also used Vim, Emacs, and explored various
   other tools and text-editors in the past.
@@ -297,7 +297,7 @@ doesn't seem to matter so much, but taking notes does.
 
 Beyond just DevOps.
 
-* ✅ [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* ✅ [Teach Yourself Computer Science](https://teachyourselfcs.com/)\
   Best in-class books and courses for learning Computer Science (CS).
 * [Open Source Society University (OSSU)](https://github.com/ossu)
 * [Code](https://www.charlespetzold.com/books/) by Charles Petzold
