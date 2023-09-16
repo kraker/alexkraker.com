@@ -95,30 +95,28 @@ _Continuous Integration Continuous Deployment_
 Programming, scripting, source code management (SCM).
 
 * ✅ [The Grug Brained Developer](https://grugbrain.dev/)
+* [Unix as IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/)
 
 ## Python
 
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
 
-## Books
+### Online Resources
+
+* [Official Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [Python Challenge](http://www.pythonchallenge.com/)
+* [Python Tutor](https://pythontutor.com/)
+
+### Books
 
 * ✅ [Automate the Boring Stuff](https://automatetheboringstuff.com/) by Al Sweigart
 * [Learn Python the Hard Way](https://learncodethehardway.org/python/) by Zed Shaw
 * [Think Python](https://open.umn.edu/opentextbooks/textbooks/43) by Allen B. Downey
 
-## Tutorials
-
-* [Official Tutorial](https://docs.python.org/3/tutorial/index.html)
-* [Python Challenge](http://www.pythonchallenge.com/)
-
-## Videos
+### Videos
 
 * [Learn Python with Socratica](https://youtu.be/bY6m6_IIN94) - YouTube
 * [Python Object Oriented Programming (OOP) - For Beginners](https://youtu.be/JeznW_7DlB0) - YouTube
-
-## Helpers
-
-* [Python Tutor](https://pythontutor.com/)
 
 ## SCM
 
