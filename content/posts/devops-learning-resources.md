@@ -287,7 +287,7 @@ doesn't seem to matter so much, but taking notes does.
 
 * [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes) by Sönke Ahrens
 * [The Zettlekasten Method](https://zettelkasten.de/posts/overview/)\
-  _This is the method that I (mostly) use. See my [second brain](https//notes.kraker.dev) as an example._
+  _This is the method that I (mostly) use. See my [second brain](https://notes.kraker.dev/) as an example._
 * [Obsidian](https://obsidian.md/)\
   Markdown note-taking tool. Supports Zettelkasten methodologies. This is what
   I'm currently using, although I've also used Vim, Emacs, and explored various
