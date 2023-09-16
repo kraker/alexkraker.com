@@ -152,7 +152,7 @@ _Source Code Manegement_
 
 # Networking
 
-* ✅ [Computer Networking: A Top-Down Approach](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780136681557) by James F. Kurose
+* ✅ [Computer Networking: A Top-Down Approach](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780136681557) by James F. Kurose\
   _If you only consume one resource on computer networking, read this._
 * [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/) - Video Course
 * [Networking for System Administrators](https://mwl.io/nonfiction/networking) by Michael W Lucas
