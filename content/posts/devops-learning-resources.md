@@ -75,7 +75,7 @@ _Continuous Integration Continuous Deployment_
 
 ## Books
 
-* ✅ [Ansible for DevOps](https://www.ansiblefordevops.com/) by Jeff Geerling | _FREE!_
+* ✅ [Ansible for DevOps](https://www.ansiblefordevops.com/) by Jeff Geerling\
   _This is the single best resource for learning Ansible that I've found._
 * [Ansible Up & Running](https://www.oreilly.com/library/view/ansible-up-and/9781098109141/)
 
