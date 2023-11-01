@@ -1,7 +1,7 @@
 ---
 title: On Learning Ansible
 date: 2023-10-31
-draft: true
+draft: false
 ---
 
 _Short on time? Skip to the [tl;dr](#tldr)._
@@ -51,17 +51,18 @@ devops learning resources.
 Write a simple playbook or two that does something useful and get it to run.
 
 I was fortunate enough to have to write Ansible to solve problems at
-work. Learning projects were real-world work projects or problems I needed to solve, so I
-didn't have to go searching for interesting problems.
+work. If you have work problems you can solve with Ansible you're in luck! Just
+start with one of those.
 
 But, if you don't need to learn Ansible for work, try to think of some things
 that might be useful to you if you were to automate them. Things that you've had to
 do more than a handful of times repeatedly are probably good candidates. Or just
 pick something you think is interesting or relevant. Some examples..
-setup a [LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) with 
+setup a [LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) with
 Ansible, automate system updates, configure some tool you
-use, like SSH, for example... Or maybe take a Bash script you've written to automate some
-thing and "ansibleize" it by converting it to Ansible code. There's lots of options.
+use, like SSH, for example... Or maybe take a Bash script you've written to
+automate something and "ansibleize" it by converting it to Ansible code.
+There's lots of options.
 
 Pick something that's relevant to you, so you're invested, and then break
 ground on it.
@@ -84,14 +85,14 @@ commands my next suggestion is to go buy
 Seriously, if you want to learn Ansible, go buy this book.
 
 This is the single greatest resource I found for learning Ansible. Actually, go 
-buy this first, and then [write a few little playbooks](#write-little-playbooks),
+buy this first, and then [write 1-2 useful playbooks](#write-little-playbooks),
 if you haven't already.
 
 Jeff Geerling does a really superb job of working through all of the important
 concepts of automation and Ansible, including some DevOps and CI/CD stuff. I
 would say if you do nothing else, work through (most of) the
 chapters in this book, and that's 80-90% of what you need to know to become
-proficient with Ansible. The rest will come from experience as you build things 
+proficient with Ansible. The rest will come from experience as you build things
 with it.
 
 And do this sooner rather than later. I wish I had read this sooner. Some of the
@@ -134,61 +135,60 @@ to @stovepipe if you stop by).
 The [Ansible forums](https://forum.ansible.com/) are also a good place to search
 for answers or get your questions answered if there's not already a relevant thread.
 
-## Write an Ansible Role
-
-Before using things like
-[Ansible Roles](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_reuse_roles.html)
-in your playbooks it's important to understand a bit about how they work. The
-best way to do this is to write one yourself. I suggest taking a playbook you've
-written that's maybe on the longer or more complex side, and seeing if you can
-refactor it into a role. This is helpful for starting to think about how
-variables are scoped in Ansible and how to "generalize" a solution so that it
-works for multiple use-cases.
-
-"Ansible for DevOps" has a chapter on Ansible Roles, so that's a good place to
-start, but definitely write your own Role at some point so that you understand
-how they work.
-
-It's a bit of a cognitive leap from writing playbooks to developing a role. Expect
-there to be a bit of a frustration barrier here. If you've learned any object
-oriented programming (OOP) I think learning how Ansible roles work is similar to
-trying to wrap your head around OOP for the first time.
-
-Learning how to write and use Ansible roles is what unlocked the true power of
-automating things with Ansible for me.
-
-## Ansible Galaxy and reading other people's code
-
-Once you've authored your own Ansible Role, you can confidently adapt and use
-Ansible Roles from [Ansible Galaxy](https://galaxy.ansible.com/). Be sure to
-check out the
-[Galaxy User Guide](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html),
-if you haven't already.
-
-I recommend reviewing the source-code of any Ansible Role you intend to use. This
-is a good way to pick up useful idioms and tricks from other developers.
-You'll also start to develop a discerning eye for good Ansible code. Once you've
-learned the fundamentals, reading, understanding, and adopting
-other people's code is a great way to accelerate your learning.
-
-> **Note:** In production environments it's important to thoroughly review the
-> code you intend to use and make sure that you aren't buying too much technical
-> debt with it, and that it's a solid solution for your use-case.
-
-Or if you're like me, you may find yourself
-[forking existing roles](https://github.com/kraker?tab=repositories&q=ansible&type=&language=&sort=)
-to add features, or make small improvements. This can be a great way to advance
-your skills.
-
 ## Learn by doing
 
 There's really no substitute to learning by doing. This should really be a
 constant throughout your learning path in my opinion. After you've learned the
 basics or perhaps you've worked through parts of "Ansible for DevOps", find a piece
 of automation or two that you're interested in or that solves a problem
-relevant to you and work on it. Problems or issues that are relevant to you have
+relevant to you and work on it. Issues that are relevant to you have
 staying power. It may be more challenging to stick with developing something
 that you're not invested in.
+
+## Write an Ansible Role
+
+Before using things like
+[Ansible Roles](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_reuse_roles.html)
+in your playbooks it's important to understand how they work. The best way to do
+this is to write one yourself. I suggest taking a playbook you've written that's
+on the longer or more complex side, and see if you can refactor it into a role.
+This is helpful for starting to think about how to "generalize" a solution so
+that it works for multiple use-cases (i.e. is reusable).
+
+> **TIP:** Actually, even if I know what I'm writing is going to end up being a
+> Role, often times I'll start out by writing it as a playbook. I find that it's
+> easier to reason out the nuts and bolts of a piece of automation this way.
+
+"Ansible for DevOps" has a chapter on Ansible Roles, so that's a good place to
+start, but definitely write your own Role at some point so that you understand
+how they work.
+
+It's a bit of a cognitive leap from writing playbooks to developing a role.
+Expect there to be a bit of a frustration barrier here. If you've learned any
+object oriented programming (OOP) I think learning how Ansible roles work is
+similar to trying to wrap your head around OOP for the first time.
+
+Learning how to write and use Ansible Roles is what unlocked the true power of
+automating things with Ansible for me.
+
+## Ansible Galaxy and reading other people's code
+
+Once you've authored your own Ansible Role, you can confidently adapt and use
+Ansible Roles from [Ansible Galaxy](https://galaxy.ansible.com/). Be sure to
+read the
+[Galaxy User Guide](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html),
+if you haven't already.
+
+I recommend reviewing the source-code of any Ansible Role you intend to use. This
+is a good way to pick up useful idioms and tricks from other developers. You'll
+also start to develop a discerning eye for good Ansible code. Once you've 
+learned the fundamentals, reading, understanding, and adapting other people's
+code is a great way to accelerate your learning.
+
+Or if you're like me, you may find yourself
+[forking existing roles](https://github.com/kraker?tab=repositories&q=ansible&type=&language=&sort=)
+to add features, or make small improvements. This can be a great way to advance
+your skills, also.
 
 ## Other miscellaneous tips & tricks
 
@@ -196,9 +196,9 @@ that you're not invested in.
 
 Stay away from ChatGPT and ather LLM's at first. It's
 ok to use ChatGPT to summarize concepts and as a learning aid, but try to
-refrain from using it to write your code for you. Learn Ansible the hard, and
-then when you do turn to those types of tools later on, you'll have a more
-descerning eye and will be able to effectively judge the merits of an answer
+refrain from using it to write your code for you. Learn Ansible "the hard way"
+first, and then when you do turn to those types of tools later on, you'll have a
+more descerning eye and will be able to effectively judge the merits of an answer
 given to you by something like ChatGPT.
 
 ### Don't be afraid to refactor your own code as you learn
@@ -211,18 +211,9 @@ implement it using what you've learned. I've completely refactored some solution
 Refactoring code you've written while incorporating new skills and concepts is a
 great way to solidify that learning.
 
-### Don't be afraid to change directions
-
-In some cases you may find yourself on a development path that's not bearing
-fruit. It's ok to 180 and take a different tack. Don't be a slave to "sunk costs"
-and get. Sometimes the path to the solution is a windy-road, with any forks
-along the way. You may have to back-track to get to the destination.
-
-Don't forget to enjoy the journey along the way though! ;-\)
-
 ### Use debug statements liberally
 
-When testing and writing, use 
+When testing and developing Ansible, use
 [debug statements](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/debug_module.html)
 to understand your variables or print useful debug messages. Use them liberally
 to understand your code. You can delete them (or comment them out) later.
@@ -250,13 +241,13 @@ intended for it to do. Don't just take Ansible's word for it.
 
 **Pre-requisites:** Basic Linux CLI proficiency.
 
-1. Project-based learning. Start by [installing Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) and write a few little playbooks that do useful things. Get them to run.
-2. Go get [Ansible for DevOps](https://www.ansiblefordevops.com/) and work through the chapters and do the exercises. **If you only do one thing, do this.**
-3. Read the [docs](https://docs.ansible.com/).
-4. Know where to go to ask for help. [Ansible Discord](https://www.ansiblefordevops.com/) and [Ansible Forums](). 
+0. Start by [installing Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) and write a few simple little playbooks that do useful things and get them to run.
+1. Go get [Ansible for DevOps](https://www.ansiblefordevops.com/) by Jeff Geerling and work through (most of) the chapters and do the exercises. **If you only do one thing, do this!**
+2. Read the [docs](https://docs.ansible.com/).
+3. Know where to go to ask for help. [Ansible Discord](https://www.ansiblefordevops.com/) and [Ansible Forums](). 
+4. Learn by doing. Pick something you're invested in, and work on it. It's ok if you don't finish.
 5. After you've learned the basics of how to run ad-hoc commands and write playbooks, write an [Ansible Role](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_reuse_roles.html).
-6. Read other people's code. (TIP: search [Ansible Galaxy](https://galaxy.ansible.com/) for Roles, and look at the source)
-7. Work with other people's code whether that's borrowing code snippits, forking and making changes to it, or adding features.
-8. Learn by doing. Pick something you're invested in, and hack on it.
-9. Learn Ansible "the hard way" first before leveraging AI tools like ChatGPT or other LLM's.
-10. Use debug statements and `-vvv` when writing your Ansible code to understand what it's doing.
+6. Read other people's code. (**TIP:** search [Ansible Galaxy](https://galaxy.ansible.com/) for Roles, and look at the source).
+7. Incorporate other people's code into your own whether that's borrowing code snippits, using a role, or something else.
+8. Learn Ansible "the hard way" first before leveraging AI tools like ChatGPT or other LLM's.
+9. Use lots of debug statements and run ansible commands with `-vvv` to understand what your code is doing.
