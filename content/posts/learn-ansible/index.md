@@ -15,7 +15,7 @@ and a link to the [Ansible Discord](#4-ansible-discord) I sometimes frequent...
 But this was enough to inspire me to write up some of my thoughts on learning
 Ansible.
 
-## 0. Pre-requisites
+## 0. Prerequisites
 
 ### Learn Linux
 
