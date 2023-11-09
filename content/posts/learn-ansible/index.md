@@ -54,7 +54,7 @@ few rungs. After you've wrapped your head around scripting, Ansible starts to
 make a lot more sense. You can skip learning scripting, but I wouldn't necessarily
 recommend it.
 
-Here's my go-to recommendation for learning Bash:
+Here's my go-to recommendation for learning both the Linux CLI and scripting in Bash:
 
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) by William Shotts\
   You can download the book for free! But I recommend supporting the author by
