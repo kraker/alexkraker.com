@@ -12,7 +12,7 @@ on Ansible. Like many sysadmins I know I'm short on bandwidth and regretfully
 had to decline. But I did offer a [book recommendation](#1-book-ansible-for-devops) 
 and a link to the [Ansible Discord](#4-ansible-discord) I sometimes frequent...
 
-But this was enough to compell me to write up some of my thoughts on learning
+But this was enough to inspire me to write up some of my thoughts on learning
 Ansible.
 
 ## 0. Pre-requisites
