@@ -21,7 +21,7 @@ Ansible.
 
 In coaching a former colleague on Ansible who is a Windows Sysadmin I
 learned that it's hard to wrap your head around Ansible if you don't already
-know some Linux. You don't need to be become a Linux Sysadmin to learn Ansible,
+know some Linux. You don't need to become a Linux Sysadmin to learn Ansible,
 but the learning curve might be too steep if you aren't at least proficient in
 the Linux CLI. Because Ansible runs on Linux to be able to learn it you tend to
 spend a lot of time in the Linux CLI running Ansible commands and trying things.
