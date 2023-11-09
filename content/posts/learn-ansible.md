@@ -102,7 +102,7 @@ to be well-written with lots of helpful examples.
 As a supplement to your learning, it's helpful to know where you can go to ask
 questions if you get stuck. I sometimes frequent the
 [Ansible Discord](http://www.catb.org/~esr/faqs/smart-questions.html) and I've
-been known to answer questions here and there when I need a distraction from
+been known to answer questions here and there when I need a break from
 working. (Yes, I enjoy Ansible enough that fielding questions about it in
 Discord is an enjoyable distraction for me... ;-)
 
