@@ -4,6 +4,9 @@ date: 2023-11-08
 draft: false
 ---
 
+![](jonathan-chng-Ch8S4zHDQfE-unsplash.jpg)
+Photo by [Jonathan Chng](https://unsplash.com/@jon_chng?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-metal-frame-glass-roof-Ch8S4zHDQfE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
 I recently had someone reach out to me on LinkedIn asking if I would mentor them
 on Ansible. Like many sysadmins I know I'm short on bandwidth and regretfully
 had to decline. But I did offer a [book recommendation](#1-book-ansible-for-devops) 
