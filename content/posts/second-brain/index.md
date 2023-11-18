@@ -1,5 +1,5 @@
 ---
-title: My Personal Knowledgebase
+title: My Personal Knowledge Base (aka "Second Brain")
 date: 2023-11-09
 draft: true
 ---
@@ -46,11 +46,11 @@ _All People Seem To Need Data Processing._
 ```
 
 ## Zettlekasten and Obsidian
+
 At some point, I stumbled across how to maintain your own personal knowledge
 base as a [Zettelkasten](https://zettelkasten.de/introduction/). I call mine my
-[second brain](https://notes.kraker.dev/). I've experimented with maintaining a
-personal wiki in Vim with things like
-[vimwiki](https://github.com/vimwiki/vimwiki) and
+"second brain". I've experimented with maintaining a personal wiki in Vim with
+things like [vimwiki](https://github.com/vimwiki/vimwiki) and
 [wiki.vim](https://github.com/lervag/wiki.vim), and even learned Emacs so that
 I could try to organize my life with [org-mode](https://orgmode.org/).
 
@@ -63,7 +63,7 @@ If you're interested in the Zettlekasten idea I recommend checking out:
 
 These days I use [Obsidian](https://obsidian.md/) to take notes and maintain my
 personal knowledge base. After spending countless hours
-[shaving yaks](https://en.wiktionary.org/wiki/yak_shaving) with my Emacs or 
+[shaving yaks](https://en.wiktionary.org/wiki/yak_shaving) with my Emacs or
 [Vim configs](https://github.com/kraker/dotfiles/tree/master/nvim/.config/nvim)
 I've realized that the text editor you use to write and maintain your notes
 isn't that important. It's the activity of taking notes that is. Obsidian gives
@@ -74,10 +74,7 @@ so that I can still use modal editing which is a requirement for me with any
 text editor. I think many Linux Sysadmins are similar in this regard. Obsidian
 also has a "mind-map" feature that I think is pretty neat but I don't use it
 that often unless I'm showing others how neat I think it is.
-
-![](Screenshot_20231110_001607.png)
-
-Ultimately what text-editor is used to maintain your personal knowledgebase
+Ultimately what text editor is used to maintain your knowledge base
 isn't that important. It's more important that it makes taking notes relatively
 painless and doesn't get in the way too much.
 
@@ -124,17 +121,18 @@ thinking about it.
 If you're interested in learning Markdown I recommend:
 
 * [Markdown Guide - Getting Started](https://www.markdownguide.org/getting-started/)
-* [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) this is the original spec
+* Daring Fireball's [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) 
+  is the original spec.
 
 ## Version controlled backups
 
-Since my notes are all just text files I back them up to a Git repository in the
-cloud. Using Git also has the added benefit of version control for my notes and
-I can easily manage sharing my notes between multiple devices by cloning the
-repository to that device and using `git pull` and `git push` to sync my notes`.
-[My notes repository](https://github.com/kraker/second-brain) is hosted on
-GitHub and I've made it public so that I can easily share them with others if
-I want to.
+Since my notes are all just text files I back them up to a [Git](https://git-scm.com/)
+repository in the cloud. Using Git also has the added benefit of version control
+for my notes and I can easily manage sharing my notes between multiple devices
+by cloning the repository to that device and using `git pull` and `git push` to
+sync my notes. [My notes repository](https://github.com/kraker/second-brain) is
+hosted on GitHub and I've made it public so that I can easily share them with
+others if I want to.
 
 There's a community [Git plugin](https://publish.obsidian.md/git-doc/Start+here)
 for Obsidian that syncs my notes to my repository at regular intervals so I don't
@@ -144,28 +142,40 @@ even have to think about it.
 
 Because my notes are just simple text files I don't have to worry about them
 being stored in some type of proprietary data format. My notes are portable and
-can be edited anywhere I have a basic text editor. I also own my data. Long-term
-I don't run the risk of losing them if they're stuck in a proprietary platform
-like [Roam Research](https://roamresearch.com/), for example. On long enough time scales most proprietary tools may not exist, just look at the
-[Killed by Google](https://killedbygoogle.com/) for lots of
-examples. I'd hate to lose the countless hours I've spent on my "second brain".
+can be edited anywhere I have a basic text editor. I also own my notes data.
+Long-term I don't run the risk of losing them if they're stuck in a proprietary
+platform like [Roam Research](https://roamresearch.com/), for example. On long
+enough time scales most proprietary tools and data formats may not exist, just 
+look at the [Killed by Google](https://killedbygoogle.com/) for lots of examples. 
+I'd hate to lose the countless hours I've spent on my "second brain". In other
+words, it's important to me that my notes are 
+[future-proof](https://en.wikipedia.org/wiki/Future-proof).
 
 ## Structuring my personal knowledgebase
 
 Before I learned about Zettelkasten I tried to organize my notes into folder
-structures and hierarchies. But after a while this becomes difficult to 
-maintain and thinking and making decisions about the "taxonomy" of your 
-knowledgebase can become a barrier to actually writing notes. Nowadays my notes
-are all just a single folder. With a Zettlekasten you create links between 
-notes and this happens organically as you take notes and make new associations
-between different pieces of knowledge or ideas. This is more like how your brain
-works. The linking is what gives structure to your knowledgebase and this 
-develops organically over time as you tend to your digital garden.
+structures and hierarchies. But after a while this becomes difficult to
+maintain and thinking and making decisions about the "taxonomy" of your
+knowledge base can become a barrier to actually writing notes. Nowadays my notes
+are all just a single folder. With a Zettelkasten you create links between
+notes. This is a bit like [hyperlinking](https://en.wikipedia.org/wiki/Hyperlink).
+This is more like how your brain works. The linking is what gives structure to
+your knowledge base and this develops organically over time as you tend to your
+digital garden.
 
-I try to keep my notes [atomic](https://medium.com/branching-thought/anatomy-of-an-atomic-note-zettel-fe329a427a7a)
-and contained to one idea or concept. 
+After a while, some of your notes start to accumulate back-links from other
+notes that are related to it. In Obsidian these are called "linked mentions" at
+the bottom of the note.
 
-Here's another example from one of my notes on networking:
+![](Screenshot_20231118_083751.png)
+
+### Atomic notes
+
+I try to keep my notes
+[atomic](https://medium.com/branching-thought/anatomy-of-an-atomic-note-zettel-fe329a427a7a)
+and contained to one idea or concept.
+
+Here's an example from one of my notes on networking about IPv4:
 
 ```markdown
 ---
@@ -246,3 +256,46 @@ tags:
 _This is just the first 20 or so lines of that hub note, if you're interested
 in seeing the whole thing, here's a link to my
 [Python Notes](https://github.com/kraker/second-brain/blob/main/20210910055625-python-notes.md?plain=1)._
+
+### Other types of notes
+
+There are other types of notes that you can take in your Zettelkasten and some of
+them are helpful for doing research. An example is "fleeting notes" which are
+something you jot down to capture a fleeting thought or idea that you will flesh
+out and categorize later.
+
+If you're interested in learning about the various other types of notes and
+how to use a Zettelkasten these ways
+[From Fleeting Notes to Project Notes](https://zettelkasten.de/posts/concepts-sohnke-ahrens-explained/)
+is worth a read.
+
+Personally, I try to keep things simple and just focus on atomic notes and hub
+notes when those become unwieldy. Maybe if I decide to write a book someday I'll
+get more into using my Zettelkasten these ways to accumulate research. It's
+important to not get too caught up in methodology at first I feel. Developing
+the basic habit is more important.
+
+## From notes to "digital garden"
+
+![](filip-urban-ffJ8Qa0VQU0-unsplash.jpg)
+
+Photo by [Filip Urban](https://unsplash.com/@yngprmtv?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/boy-in-black-and-white-long-sleeve-shirt-standing-beside-gray-metal-watering-can-during-daytime-ffJ8Qa0VQU0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  
+A friend of mine that I used to work with published his technical notes
+about some tools we all used on his website. This inspired me to publish my own
+notes on a website so that I could share them with others. Some people like to
+call this online repository of their thinking, research, or notes their
+[digital garden](https://maggieappleton.com/garden-history). I like this concept
+because tending to your notes is a bit like gardening. I've spent countless
+hours tending mine.
+
+Here's a link to my digital garden if you're curious:
+[Alex's Second Brain](https://notes.kraker.dev/)
+
+Sometimes if somebody asks how I learned something or asks for advice I'll often
+link them one of my notes if I have one on that topic.
+
+At first, publishing my notes online was a manual process, but I've since
+automated it so that all I need to do is write the notes and automation takes
+care of the rest. How I did this is probably a good topic for a future article,
+so stay tuned!
