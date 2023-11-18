@@ -1,7 +1,7 @@
 ---
 title: My Personal Knowledge Base (aka "Second Brain")
 date: 2023-11-09
-draft: true
+draft: false
 ---
 
 ![](jan-kahanek-g3O5ZtRk2E4-unsplash.jpg)
