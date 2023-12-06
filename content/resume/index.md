@@ -33,7 +33,7 @@ that supported core infrastructure.
   * Jenkins CI
   * GitHub Actions
   * Docker
-  * Kubernetes Administrator
+  * Kubernetes
 * Computer networking
 * Cloud computing: AWS, Azure, GCP
 * Virtualization: Proxmox VE, OpenStack, Virtuozzo
