@@ -17,9 +17,27 @@ Administrator and Systems Engineer. Proficiently managed and ensured the uptime
 of 800+ cloud servers, consistently achieving an SLA uptime of 99.5% or better
 and 99.95% or better for high-availability systems. Recognized as an Ansible
 automation subject matter expert (SME), proficient Kubernetes administrator, and
-seasoned Jenkins CI administrator, having contributed nearly 10,000 lines of
+seasoned Jenkins CI administrator, having contributed over 10,000 lines of
 code across 10 diverse projects, including 4 successful 'greenfield' initiatives
 that supported core infrastructure.
+
+## Skills
+
+* **Linux System Administrator**
+  * Red Hat Enterprise Linux, CentOS, Rocky Linux, CloudLinux
+  * SUSE Linux Enterprise Server
+  * Ubuntu Server
+  * Pacemaker cluster resource manager
+* **DevOps Engineer**
+  * Ansible
+  * Jenkins CI
+  * GitHub Actions
+  * Docker
+* **Kubernetes Administrator**
+* Computer networking
+* Cloud computing: AWS, Azure, GCP
+* Virtualization: Proxmox VE, OpenStack, Virtuozzo
+* Scripting: Bash, Python
 
 ## Experience
 
@@ -87,24 +105,15 @@ _November 2019 -- September 2020_
   COVID-19 Pandemic.
 * Trusted internal knowledge base editor.
 
-### Freelance Web Developer and System Administrator
-
-Sole Proprietor | _Various_\
-_January 2015 -- August 2021_
-
-* Created a Clojure-based web application prototype, "Schedulepal."
-* Designed, developed, optimized, and troubleshot Squarespace and WordPress 
-  websites.
-* Deployed and administered LAMP stack web servers.
-* Implemented and resolved DNS issues.
-* Set up, configured, and troubleshot email systems.
-
 ## Volunteer Experience
 
 * [PaperStreet](https://github.com/paperstreetco)\
   Co-Founder | _May 2022 -- Present_\
   Open Source project to facilitate professional and skills development for
   IT practitioners and system administrators.
+* [Linux Upskill Challenge](https://linuxupskillchallenge.org/)\
+  Contributor & Linux Mentor | _May 2023 -- Present_\
+  Technical editor and volunteer Linux mentor on community Discord.
 
 ## Certifications
 
@@ -123,4 +132,4 @@ technology, entrepreneurship.
 [linkedin.com/in/alexkraker](https://linkedin.com/in/alexkraker) |
 [github.com/kraker](https://github.com/kraker)
 
-_Download this resume as a [PDF](alexkraker_resume_2023-09-04.pdf)._
+_Download this resume as a [PDF](alexkraker_resume_2023-11-30.pdf)._
