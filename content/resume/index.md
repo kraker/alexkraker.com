@@ -44,7 +44,7 @@ that supported core infrastructure.
 ### Linux System Administrator
 
 [Avvale](https://www.avvale.com) | Tulsa, OK\
-_March 2023 -- Present_
+_March 2022 -- Present_
 
 * Engineered a Teleport cluster on Kubernetes using Helm, Ansible, and AWS
   Elastic Kubernetes Service for Identity Management.
