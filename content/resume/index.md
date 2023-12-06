@@ -33,7 +33,7 @@ that supported core infrastructure.
   * Jenkins CI
   * GitHub Actions
   * Docker
-* **Kubernetes Administrator**
+  * Kubernetes Administrator
 * Computer networking
 * Cloud computing: AWS, Azure, GCP
 * Virtualization: Proxmox VE, OpenStack, Virtuozzo
@@ -132,4 +132,4 @@ technology, entrepreneurship.
 [linkedin.com/in/alexkraker](https://linkedin.com/in/alexkraker) |
 [github.com/kraker](https://github.com/kraker)
 
-_Download this resume as a [PDF](alexkraker_resume_2023-11-30.pdf)._
+_Download this resume as a [PDF](alexkraker_resume_2023-12-05.pdf)._
