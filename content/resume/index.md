@@ -135,4 +135,4 @@ technology, entrepreneurship.
 [linkedin.com/in/alexkraker](https://linkedin.com/in/alexkraker) |
 [github.com/kraker](https://github.com/kraker)
 
-_Download this resume as a [PDF](alexkraker_resume_2023-12-05.pdf)._
+_Download this resume as a [PDF](alexkraker_resume_20240223.pdf)._
