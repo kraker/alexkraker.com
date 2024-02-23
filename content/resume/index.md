@@ -28,13 +28,14 @@ that supported core infrastructure.
   * SUSE Linux Enterprise Server
   * Ubuntu Server
   * Pacemaker cluster resource manager
-* **DevOps Engineer**
+* **Systems Engineer**
   * Ansible
   * Jenkins CI
   * GitHub Actions
   * Docker
   * Kubernetes
 * Computer networking
+* Cybersecurity
 * Cloud computing: AWS, Azure, GCP
 * Virtualization: Proxmox VE, OpenStack, Virtuozzo
 * Scripting: Bash, Python
@@ -117,8 +118,10 @@ _November 2019 -- September 2020_
 
 ## Certifications
 
-* CompTIA Network+ Certification\
-  _March 2022 -- March 2025_
+* [CompTIA Network+ Certification](https://www.credly.com/badges/cd704cc2-d049-420d-a2aa-068e8bb34c91/public_url)\
+  _March 2022 -- February 2027_
+* [CompTIA Security+ Certification](https://www.credly.com/badges/2c5df295-3311-4d10-a03e-76d2980e8be2/public_url)\
+  _February 2024 -- February 2027_
 
 ## Hobbies & Interests
 
