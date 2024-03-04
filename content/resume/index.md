@@ -4,6 +4,8 @@ date: 2023-09-02
 draft: false
 ---
 
+_Download this resume as a [PDF](alexkraker_resume_2024-03-03.pdf)._
+
 # Alex Kraker
 
 +1 303 519 0703 | alex@alexkraker.com |
@@ -38,7 +40,7 @@ that supported core infrastructure.
 * Cybersecurity
 * Cloud computing: AWS, Azure, GCP
 * Virtualization: Proxmox VE, OpenStack, Virtuozzo
-* Scripting: Bash, Python
+* Scripting: Bash, Python, and PowerShell
 
 ## Experience
 
@@ -47,18 +49,32 @@ that supported core infrastructure.
 [Avvale](https://www.avvale.com) | Tulsa, OK\
 _March 2022 -- Present_
 
-* Engineered a Teleport cluster on Kubernetes using Helm, Ansible, and AWS
-  Elastic Kubernetes Service for Identity Management.
-* Automated configuration and patch management for Linux and Windows servers
-  with Ansible and Jenkins CI.
-* Developed automated deployment and configuration of Jenkins CI server and
-  Ansible Control Node for CI/CD.
-* Configured and maintained Pacemaker clusters on RHEL & SLES for
-  high-availability SAP solutions.
-* Managed and optimized Red Hat, SUSE, and Ubuntu servers across AWS, Azure, and
-  GCP.
-* Developed custom solutions, including IBM DB2 backups on GCP and Prometheus &
-  Grafana integrations for monitoring & alerting.
+* Primary author or key contributor of CaC type deployment automation supporting
+  both Linux and Windows server infrastructure using Ansible and Jenkins CI.
+  Projects supporting critical infrastructure include: Sudoers configuration
+  deployment, local user management and LDAP configuration, SSH key rotation and
+  SSH configuration deployment, Linux and Windows server onboarding, Linux and
+  Windows patch automation, among others.
+* Managed, configured, and optimized Red Hat, SUSE, and Ubuntu servers across
+  AWS, Azure, and GCP cloud platforms in day to day operations. Including
+  diagnosing performance related issues, configure or resolve file permissions
+  issues, boot failures, storage configuration and management with LVM, NFS
+  server and client configuration management and troubleshooting, diagnose and
+  resolve service failures, troubleshoot network connectivity issues, PAM
+  configuration and user access management, diagnose and resolve failed patches,
+  updates, and Enterprise Linux-related subscription issues.
+* Configured and maintained Pacemaker clusters on both SUSE and RedHat Enterprise
+  Linux for high-availability SAP solutions.
+* Primary engineer and architect of a Teleport cluster deployment for IdM built
+  in Kubernetes on AWS EKS.
+* Developed custom scripted solutions in Bash and PowerShell, highlights include
+  IBM DB2 database backups on GCP, Prometheus & Grafana integrations for
+  monitoring & alerting, and Windows server onboarding.
+* Cloud network troubleshooting and configuration & management of both Fortigate
+  and CheckPoint NGFW virtual cloud appliances. Experience with implementing
+  firewall policy rules and ACLs, diagnosing and resolving network reachability
+  issues, patching and upgrading of virtual firewall appliances, troubleshooting
+  and resolving site-to-site VPN connectivity issues.
 
 ### Managed Hosting Analyst I & II
 
@@ -135,4 +151,3 @@ technology, entrepreneurship.
 [linkedin.com/in/alexkraker](https://linkedin.com/in/alexkraker) |
 [github.com/kraker](https://github.com/kraker)
 
-_Download this resume as a [PDF](alexkraker_resume_20240223.pdf)._
