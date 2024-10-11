@@ -13,17 +13,16 @@ there's a need for a RHEL image with a subscription attached. Red Hat's
 Developer licenses are good here, with the ability to have up to 16 systems for
 developer testing. More on this later...
 
-Vagrant is really handy for spinning up servers in a local development
-environment for testing. A primer on this tool is out of the scope of this post
+Vagrant is really handy for spinning up servers for testing. A primer on this tool is out of the scope of this post
 but if you're not familiar with it I recommend Vagrant's own [tutorials](https://developer.hashicorp.com/vagrant/tutorials) to help get you started.
 
-I use Vagrant + VirtualBox on a Linux Workstation as a local development
+I use Vagrant + VirtualBox on my Linux Workstation as a local development
 environment for testing. I've found this really helpful for rapidly iterating
 over things like Ansible scripts among other things. Ansible is declarative and
 the idea of immutability is important when writing good code. Vagrant makes it
 easy to spin up and destroy servers so that I know I'm always starting with a
-system in the same state. Otherwise you could end up with some "configuration 
-drift" that hinders your ability to write good immutable scripts.
+system in the same state. Otherwise you could end up with some "configuration
+drift" as you're developing...
 
 ## Installing prerequisites Vagrant and VirtualBox
 
@@ -138,6 +137,8 @@ vagrant up
 
 ![](./Screenshot%20from%202024-10-10%2021-51-11.png)
 
+> NOTE: Vagrant automatically registers the new system with Red Hat.
+
 SSH into the machine and verify the subscription.
 
 ```bash
@@ -150,9 +151,31 @@ sudo subscription-manager status
 
 ![](Screenshot%20from%202024-10-10%2021-58-04.png)
 
+You can also see this server registered as an active system in your 
+[Red Hat Customer Portal - Subscriptions](https://access.redhat.com/management/subscriptions/) and then by navigating to the _Systems_ tab:
+
+![](./Screenshot%20from%202024-10-10%2022-17-45.png)
+
+### Destroy...
+
+You can destroy the VM when you're done testing, or as many times as you need
+when testing. The vagrant-registration plugin should automatically _deregister_
+your instance whenever you destroy (or _halt_, e.g. `vagrant halt`) the instance.
+
+```bash
+vagrant destroy
+```
+
+![](./Screenshot%20from%202024-10-10%2022-22-03.png)
+
 That's it!
 
 ## Additional resources
 
 If you're interested in taking a peek at how I use Vagrant, feel free to
 puruse my [vagrant repository](https://github.com/kraker/vagrant).
+
+### References
+
+* [Vagrant - Docs](https://developer.hashicorp.com/vagrant/docs)
+* [vagrant-registration - Docs](https://github.com/projectatomic/adb-vagrant-registration)
