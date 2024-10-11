@@ -1,10 +1,8 @@
 ---
 title: Local Development Testing with RHEL and Vagrant
 date: 2024-10-10
-draft: true
+draft: false
 ---
-
-![](https://en.wikipedia.org/wiki/Vagrant_%28software%29#/media/File:Vagrantup.jpg)
 
 Sometimes I need to be able to spin up a Red Hat Enterprise Linux (RHEL) server in a local development environment for testing. For many use-cases
 spinning up a free [Rocky Linux](https://rockylinux.org/) image is sufficient to
