@@ -43,7 +43,8 @@ But, I've found this bug is still unresolved in the latest version of RHEL 9.6.
 I tried opening a new bug, but I don't have access to the RHEL project in Jira, so I opened a developer feedback ticket:
 
 * <https://issues.redhat.com/browse/RHDFEED-1283>
-  Hopefully this get's to the right place.
+
+Hopefully this get's to the right place!
 
 According to the [Red Hat Bugzilla - Migrated Products](https://bugzilla.redhat.com/page.cgi?id=redhat/migrated_products.html) page I'm supposed to be able to submit bug reports for RHEL 7/8/9 in Jira now. Do I need to submit a bug report about not being able to submit bug reports? If any Red Hat engineers happen upon this, let me know!
 
