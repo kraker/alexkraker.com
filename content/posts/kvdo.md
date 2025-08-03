@@ -45,7 +45,7 @@ I tried opening a new bug, but I don't have access to the RHEL project in Jira, 
 * <https://issues.redhat.com/browse/RHDFEED-1283>
   Hopefully this get's to the right place.
 
-According to the [Red Hat Bugzilla - Migrated Products](https://bugzilla.redhat.com/page.cgi?id=redhat/migrated_products.html) page I'm supposed to be able to submit bug reports for RHEL 7/8/9 etc. there. Do I need to submit a bug report about not being able to submit bug reports? If any Red Hat engineers happen upon this, let me know!
+According to the [Red Hat Bugzilla - Migrated Products](https://bugzilla.redhat.com/page.cgi?id=redhat/migrated_products.html) page I'm supposed to be able to submit bug reports for RHEL 7/8/9 in Jira now. Do I need to submit a bug report about not being able to submit bug reports? If any Red Hat engineers happen upon this, let me know!
 
 ### Steps to reproduce
 
