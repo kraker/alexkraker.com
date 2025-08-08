@@ -1,8 +1,13 @@
 # alexkraker.com README
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/30d2ba54-9fcb-41d4-80ce-96399404a0ba/deploy-status)](https://app.netlify.com/sites/voluble-pie-d95e51/deploys)
+This project has been permanently moved to
+[kraker/kraker.github.io](https://github.com/kraker/kraker.github.io).
 
-Simple personal site and blog built in [Hugo](https://gohugo.io/) and using the 
+<!---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/30d2ba54-9fcb-41d4-80ce-96399404a0ba/deploy-status)](https://app.netlify.com/sites/voluble-pie-d95e51/deploys)
+--->
+
+Simple personal site and blog built in [Hugo](https://gohugo.io/) and using the
 [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
 * [alexkraker.com](https://alexkraker.com)
@@ -14,7 +19,7 @@ Simple personal site and blog built in [Hugo](https://gohugo.io/) and using the
 Clone repository:
 
 ```bash
-git clone --recurse-submodules https://github.com/kraker/alexkraker.com.git
+git clone --recurse-submodules https://github.com/kraker/kraker.github.io.git
 ```
 
 Start Hugo server:
@@ -23,3 +28,11 @@ Start Hugo server:
 cd alexkraker.com
 hugo server -D
 ```
+
+## License
+
+MIT
+
+## Author
+
+Written by Alex Kraker (@kraker)
